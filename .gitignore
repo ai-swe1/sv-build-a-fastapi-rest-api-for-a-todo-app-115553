@@ -1,0 +1,20 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Docker files
+Dockerfile
+*.docker
+
+# VSCode files
+.vscode/
+
+# SQLite database file
+app/database.db
+
+# Byte-compiled files
+*.pyd
+*.pyo
+
+# Git metadata
+.git/
